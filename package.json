@@ -1,0 +1,20 @@
+{
+  "name": "pmag-componentes",
+  "version": "1.0.0",
+  "description": "Pacote para barra principal PMAG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odessagy/pmag-components.git"
+  },
+  "keywords": ["PMAG", "DTI"],
+  "author": "Sangy Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odessagy/pmag-components/issues"
+  },
+  "homepage": "https://github.com/odessagy/pmag-components#readme"
+}
