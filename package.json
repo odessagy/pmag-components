@@ -1,6 +1,6 @@
 {
   "name": "pmag-componentes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacote para barra principal PMAG",
   "main": "index.js",
   "scripts": {
