@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/odessagy/pmag-components.git"
   },
-  "keywords": ["PMAG", "DTI"],
+  "keywords": [
+    "PMAG",
+    "DTI"
+  ],
   "author": "Sangy Santos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/odessagy/pmag-components/issues"
   },
-  "homepage": "https://github.com/odessagy/pmag-components#readme"
+  "homepage": "https://github.com/odessagy/pmag-components#readme",
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.18.6"
+  }
 }
