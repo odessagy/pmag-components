@@ -1,6 +1,6 @@
 import React from 'react'
 
-const index = () => {
+const Index = () => {
   return (
     <div style={{backgroundColor: 'black', padding: '25px', color: 'white'}}>
         Testando Barra Inicial Padrão
@@ -8,4 +8,4 @@ const index = () => {
   )
 }
 
-export default index
+export default Index
